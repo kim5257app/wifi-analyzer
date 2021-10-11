@@ -1,0 +1,6 @@
+{
+	"appId": "io.kim5257.app.wifianalyzer",
+	"appName": "WiFi Analyzer",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
